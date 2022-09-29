@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Billbot](https://twitter.com/billsbeepboop)
 
-- 👨‍💻 All of my projects are available at [charnalia.dev](charnalia.dev)
+- 👨‍💻 All of my projects are available at [charnalia.dev](https://www.charnalia.dev)
 
 - 💬 Let's chat about **Javascript, its frameworks/libraries and microbreweries.**
 
