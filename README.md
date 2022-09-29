@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [charnalia.dev](charnalia.dev)
 
-- 💬 Ask me about **Javascript, its frameworks/libraries and microbreweries.**
+- 💬 Let's chat about **Javascript, its frameworks/libraries and microbreweries.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
