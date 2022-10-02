@@ -1,13 +1,13 @@
-<h1 align="left">Hi, I'm Ameya Charnalia</h1>
-<h3 align="center">A passionate Javascript developer from Canada</h3>
+## Who?
+Ameya [uh-may]: The name Ameya is primarily a gender-neutral name of Indian origin that means boundless.
+
+## What?
+I enjoy building full-stack applications in Javascript. You'll usually find me coding in React and Node JS, but I tinker with Ruby on Rails and Mongo DB for backend-intense projects.
+
+## Before?
+I used to be a breaking news reporter. I got my start at the Bonnyville Nouvelle, a community newspaper that served its namesake small-town in the Canadian prairies. I was part of the Edmonton Journal team that won a National Newspaper Award in the breaking news category for our coverage of the devastating 2015 Fort McMurray wildfires. I finished my news career at the Star, where I covered energy, transport and municipal politics.
 
 <p align="left"> <a href="https://twitter.com/ameyayeg" target="blank"><img src="https://img.shields.io/twitter/follow/ameyayeg?logo=twitter&style=for-the-badge" alt="ameyayeg" /></a> </p>
-
-- 🔭 I’m currently working on [Billbot](https://twitter.com/billsbeepboop)
-
-- 👨‍💻 All of my projects are available at [charnalia.dev](https://www.charnalia.dev)
-
-- 💬 Let's chat about **Javascript, its frameworks/libraries and microbreweries.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
