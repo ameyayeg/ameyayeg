@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ameya Charnalia</h1>
+<h1 align="left">Hi, I'm Ameya Charnalia</h1>
 <h3 align="center">A passionate Javascript developer from Canada</h3>
 
 <p align="left"> <a href="https://twitter.com/ameyayeg" target="blank"><img src="https://img.shields.io/twitter/follow/ameyayeg?logo=twitter&style=for-the-badge" alt="ameyayeg" /></a> </p>
