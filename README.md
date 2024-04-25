@@ -2,7 +2,7 @@
 Ameya [uh-may]: The name Ameya is primarily a gender-neutral name of Indian origin that means boundless.
 
 ## What?
-I enjoy building full-stack applications in Javascript. You'll usually find me coding in React and Node JS, but I tinker with Ruby on Rails and Mongo DB for backend-intense projects.
+I enjoy building full-stack applications in Javascript. You'll usually find me coding in Angular and Typescript, but I tinker with Cold Fusion and Java for backend-intense projects.
 
 ## Before?
 I used to be a breaking news reporter. I got my start at the Bonnyville Nouvelle, a community newspaper that served its namesake small-town in the Canadian prairies. I was part of the Edmonton Journal team that won a National Newspaper Award in the breaking news category for our coverage of the devastating 2015 Fort McMurray wildfires. I finished my news career at the Star, where I covered energy, transport and municipal politics.
